@@ -1,0 +1,9 @@
+create table cart(customerid int,productid varchar(50),quantity int,
+primary key(customerid,productid),
+foreign key(customerid) references registration(customerid) on delete cascade,
+foreign key(productid) references PRODUCT(productid) on delete cascade);
+
+
+insert into cart(customerid ,productid ,quantity ) values (459644,'475041',1);
+
+select * from cart;

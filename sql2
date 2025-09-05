@@ -1,0 +1,10 @@
+create table product(productid varchar(50) primary key,
+productname varchar(100),
+productdesc varchar(500),
+productprice double,
+quantity int,
+producturl varchar(255),
+category varchar(50));
+
+
+

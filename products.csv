@@ -1,0 +1,13 @@
+productid,productname,productdesc,productprice,quantity,producturl,category
+BULK001,Fresh Apples,Crisp and juicy red apples,2.99,100,apple.png,Fruits
+BULK002,Bananas Bunch,Ripe yellow bananas,1.49,150,banana.png,Fruits
+BULK003,Whole Wheat Bread,Healthy whole wheat loaf,3.50,50,bread_whole.png,Bakery
+BULK004,Organic Carrots,Bundle of fresh carrots,2.15,80,carrot.png,Vegetables
+BULK005,Cheddar Cheese,Sharp cheddar block,5.99,30,cheese_cheddar.png,Dairy
+BULK006,Notebook Large,Classmate Large Notebook,0.75,200,notebook.png,Stationery
+BULK007,Pineapple Fresh,Sweet tropical pineapple,4.50,40,pineapple.png,Fruits
+BULK008,Aashirvaad Atta,1kg pack Whole Wheat Flour,3.20,70,aashirvaad_atta.png,Grains
+BULK009,Red Onions,1kg fresh red onions,1.90,90,onion.png,Vegetables
+BULK010,Farm Potatoes,Bag of farm potatoes,2.50,120,potato.png,Vegetables
+BULK011,Buttermilk Biscuits,Pack of 6 biscuits,3.99,25,biscuit.png,Bakery
+BULK012,Vine Tomatoes,Fresh vine-ripened tomatoes,2.75,60,tomato.png,Vegetables
